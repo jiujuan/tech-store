@@ -6,4 +6,6 @@
 
 # 2019-03-11
 - [携程数据库高可用和容灾架构演进](https://mp.weixin.qq.com/s/LXcWMwxgk3SXDI1cI_Kg8w)
+- [MySQL-InnoDB-MVCC多版本并发控制](https://segmentfault.com/a/1190000012650596)
+- [MySQL性能突发事件问题排查技巧](https://mp.weixin.qq.com/s/qCRfxIr1RoHd9i8-Hk8iuQ)
 
