@@ -4,3 +4,6 @@
 - [乐观锁指南](https://www.engineyard.com/blog/a-guide-to-optimistic-locking) [翻译](https://www.oschina.net/translate/a-guide-to-optimistic-locking)
 - [java核心系列编程](https://github.com/JeffLi1993/java-core-learning-example)
 
+# 2019-03-11
+- [携程数据库高可用和容灾架构演进](https://mp.weixin.qq.com/s/LXcWMwxgk3SXDI1cI_Kg8w)
+
