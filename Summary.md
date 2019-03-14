@@ -19,3 +19,7 @@
 - [linux常用命令--开发调试篇](https://www.yanbinghu.com/2018/09/26/61877.html)
 - [一文掌握 Linux 性能分析之网络篇-下](https://www.cnblogs.com/bakari/p/10522449.html)
 - [一文掌握 Linux 性能分析之网络篇-上](https://www.cnblogs.com/bakari/p/10515977.html)
+- [一文掌握 Linux 性能分析之 I/O 篇](https://www.cnblogs.com/bakari/p/10515577.html)
+- [一文掌握 Linux 性能分析之内存篇](https://www.cnblogs.com/bakari/p/10486818.html)
+- [一文掌握 Linux 性能分析之 CPU 篇](https://www.cnblogs.com/bakari/p/8971786.html)
+
