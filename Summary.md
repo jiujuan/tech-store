@@ -26,4 +26,5 @@
 # 2019-03-14
 - [Golang任务队列machinery使用与源码剖析（一）](https://www.cnblogs.com/bakari/p/8971786.html)
 - [Golang任务队列machinery使用与源码剖析（二）](https://cloud.tencent.com/developer/article/1177831)
+- [有赞延迟队列设计](https://tech.youzan.com/queuing_delay/)
 
