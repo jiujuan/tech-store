@@ -33,3 +33,4 @@
 
 # 2019-03-15
 - [SPDY 是什么？如何部署 SPDY？](https://linux.cn/article-1385-1-qqmail.html)
+- [每个程序员都应该了解的 CPU 高速缓存](http://blog.jobbole.com/36263/)
