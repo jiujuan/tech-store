@@ -23,3 +23,7 @@
 - [一文掌握 Linux 性能分析之内存篇](https://www.cnblogs.com/bakari/p/10486818.html)
 - [一文掌握 Linux 性能分析之 CPU 篇](https://www.cnblogs.com/bakari/p/8971786.html)
 
+# 2019-03-14
+- [Golang任务队列machinery使用与源码剖析（一）](https://www.cnblogs.com/bakari/p/8971786.html)
+- [Golang任务队列machinery使用与源码剖析（二）](https://cloud.tencent.com/developer/article/1177831)
+
