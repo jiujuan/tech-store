@@ -34,3 +34,5 @@
 # 2019-03-15
 - [SPDY 是什么？如何部署 SPDY？](https://linux.cn/article-1385-1-qqmail.html)
 - [每个程序员都应该了解的 CPU 高速缓存](http://blog.jobbole.com/36263/)
+- [每个程序员都应该了解的内存知识](http://blog.jobbole.com/34303/)
+- [每个程序员都应该了解的“虚拟内存”知识](http://blog.jobbole.com/36303/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
