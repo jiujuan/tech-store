@@ -1,5 +1,5 @@
 # tech-repository
-平时感兴趣的技术文章集锦
+主要是golang和linux方面的文章集合
 
 # 2019-03-10
 
