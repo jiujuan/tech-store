@@ -36,3 +36,6 @@
 - [每个程序员都应该了解的 CPU 高速缓存](http://blog.jobbole.com/36263/)
 - [每个程序员都应该了解的内存知识](http://blog.jobbole.com/34303/)
 - [每个程序员都应该了解的“虚拟内存”知识](http://blog.jobbole.com/36303/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+
+# 2019-03-16
+- [并发编程与锁的底层原理](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653580071&idx=1&sn=5b2695f3f3e3c1f6af73b942ef792a2c&chksm=84b3b920b3c4303682aba6eaa1b8776b83a03a094a80658a019b87e58707bd8bf4169b7bfebc&mpshare=1&scene=1&srcid=#rd)
