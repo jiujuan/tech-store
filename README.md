@@ -39,3 +39,5 @@
 
 # 2019-03-16
 - [并发编程与锁的底层原理](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653580071&idx=1&sn=5b2695f3f3e3c1f6af73b942ef792a2c&chksm=84b3b920b3c4303682aba6eaa1b8776b83a03a094a80658a019b87e58707bd8bf4169b7bfebc&mpshare=1&scene=1&srcid=#rd)
+- [go-algorithms](https://github.com/0xAX/go-algorithms)
+- [Binary tree and some generic tricks with golang](http://0xax.blogspot.com/2014/08/binary-tree-and-some-generic-tricks.html)
