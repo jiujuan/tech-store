@@ -44,3 +44,4 @@
 
 # 2019-03-17
 - [go知识图谱-很全golang知识](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)
+- [raft分布式一致性算法](http://www.cnblogs.com/mindwind/p/5231986.html)
