@@ -48,3 +48,4 @@
 - [raft分布式一致性算法](http://www.cnblogs.com/mindwind/p/5231986.html)
 
 # 2019-03-18
+- [etcd3](https://yuerblog.cc/2017/12/10/principle-about-etcd-v3/)
