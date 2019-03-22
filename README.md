@@ -61,3 +61,8 @@
 - [十大经典排序算法](https://love2.io/@funkkiid/doc/JS-Sorting-Algorithm/1.bubbleSort.md)
 - [变量起名-在线网站](https://unbug.github.io/codelf/)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
+
+# 2019-03-21
+- [go学习系列](https://yourbasic.org/golang/)
+- [bigqueue](https://github.com/grandecola/bigqueue)  go工具
+- [go数据结构扩展 slim](https://github.com/openacid/slim)
