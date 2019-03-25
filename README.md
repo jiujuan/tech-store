@@ -76,3 +76,7 @@
 - [go反向代理-weaver](https://github.com/gojektech/weaver)
 - [一份软件工程师行业生存指南](https://www.cnblogs.com/mindwind/p/10230291.html)
 - [分布式-数据一致性剖析](https://www.cnblogs.com/Zachary-Fan/p/consistency1.html)
+
+# 2019-03-24
+- [分布式锁服务关键技术和常见解决方案(上)](https://cloud.tencent.com/developer/article/1005613)
+- [分布式锁服务关键技术和常见解决方案(下)](https://cloud.tencent.com/developer/article/1005614)
