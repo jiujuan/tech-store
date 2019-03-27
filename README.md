@@ -89,3 +89,5 @@
 
 # 2019-03-26
 - [Golang Scheduler](https://zhuanlan.zhihu.com/p/42057783)
+- [go-raft code](https://github.com/goraft/raft)
+- [go-raft实现分析](http://www.d-kai.me/go-raft%E5%AE%9E%E7%8E%B0/)
