@@ -81,3 +81,6 @@
 - [分布式锁服务关键技术和常见解决方案(上)](https://cloud.tencent.com/developer/article/1005613)
 - [分布式锁服务关键技术和常见解决方案(下)](https://cloud.tencent.com/developer/article/1005614)
 - [Redis分布式锁进化史](http://tech.dianwoda.com/2018/04/11/redisfen-bu-shi-suo-jin-hua-shi/)
+
+# 2019-03-25
+- [GCTT-go中文翻译组](https://studygolang.com/gctt)
