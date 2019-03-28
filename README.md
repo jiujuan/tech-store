@@ -1,4 +1,5 @@
-# tech-repository
+# golinux-repository
+
 主要是golang和linux方面的文章集合
 
 # 2019-03-10
