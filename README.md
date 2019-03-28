@@ -95,3 +95,10 @@
 # 2019-03-26
 - [性能瓶颈诊断--CPU篇(一）](https://bryantchang.github.io/2019/03/09/cpu-profile/)
 - [性能瓶颈诊断--CPU篇(二）](https://bryantchang.github.io/2019/03/17/cpu-profile-two/)
+
+# 2019-03-27
+- [Log4j初识](https://bryantchang.github.io/2018/05/30/log4j2/)
+- [Log4J进阶](https://bryantchang.github.io/2018/05/30/log4j-adv/)
+- [Log4j2源码解析(1)--LogManager启动流程](https://bryantchang.github.io/2018/07/19/log4j2-code-1/)
+- [log4j2源码解析(2)--LoggerContext](https://bryantchang.github.io/2018/09/15/log4j2-code-2/)
+- [log4j2源码解析(3)--Configuration](https://bryantchang.github.io/2018/09/29/log4j2-code-3/)
