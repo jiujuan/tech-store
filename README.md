@@ -105,3 +105,6 @@
 - [log4j2源码解析(3)--Configuration](https://bryantchang.github.io/2018/09/29/log4j2-code-3/)
 - [log4j2异步那些事(1)--AsyncAppender](https://bryantchang.github.io/2018/11/18/log4j-async/)
 - [log4j2异步那些事(2)--AsyncLogger](https://bryantchang.github.io/2019/01/15/log4j2-asyncLogger/)
+
+- #2019-03-28
+- [怎么样抄一个PHP扩展](https://juejin.im/post/5c9c7003e51d457c3579d990)
