@@ -109,3 +109,4 @@
 - #2019-03-28
 - [怎么样抄一个PHP扩展](https://juejin.im/post/5c9c7003e51d457c3579d990)
 - [深入学习MySQL事务：ACID特性的实现原理](https://juejin.im/post/5c9cb91d5188251cea0abbd7)
+- [MySQL 一些内部原理](https://www.cnblogs.com/keme/p/10243333.html)
