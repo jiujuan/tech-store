@@ -114,3 +114,4 @@
 
 # 2019-03-29
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
+- [skaffold](https://github.com/GoogleContainerTools/skaffold) Easy and Repeatable Kubernetes Development
