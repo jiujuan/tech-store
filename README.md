@@ -123,3 +123,6 @@
 
 # 2019-03-31
 - [理解 Golang 哈希表 Map 的原理](https://draveness.me/golang-hashmap)
+- [详解 Kubernetes Job 和 CronJob 的实现原理](https://draveness.me/kubernetes-job-cronjob)
+- [详解 Kubernetes DaemonSet 的实现原理](https://draveness.me/kubernetes-daemonset)
+- [详解 Kubernetes StatefulSet 实现原理](https://draveness.me/kubernetes-statefulset)
