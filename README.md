@@ -126,3 +126,4 @@
 - [详解 Kubernetes Job 和 CronJob 的实现原理](https://draveness.me/kubernetes-job-cronjob)
 - [详解 Kubernetes DaemonSet 的实现原理](https://draveness.me/kubernetes-daemonset)
 - [详解 Kubernetes StatefulSet 实现原理](https://draveness.me/kubernetes-statefulset)
+- [详解 Kubernetes Deployment 的实现原理](https://draveness.me/kubernetes-deployment)
