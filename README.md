@@ -111,3 +111,6 @@
 - [深入学习MySQL事务：ACID特性的实现原理](https://juejin.im/post/5c9cb91d5188251cea0abbd7)
 - [MySQL 一些内部原理](https://www.cnblogs.com/keme/p/10243333.html)
 - [MySQL 性能管理及架构设计指南](https://www.cnblogs.com/keme/p/10472283.html)
+
+# 2019-03-29
+- [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
