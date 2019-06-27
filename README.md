@@ -1,4 +1,4 @@
-# golinux-repository
+# tech-collection
 
 技术方面的文章集合，记录一些比较好的文章。
 
