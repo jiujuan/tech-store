@@ -12,6 +12,9 @@
 - [日均5亿查询量的京东订单中心，为什么舍MySQL用ES?](https://mp.weixin.qq.com/s/QQ0M6C5G2LwIKhBdEmnnXA) - 京东到家
 - [基于 MySQL Binlog 的 Elasticsearch 数据同步实践](https://mp.weixin.qq.com/s/kzd0KG_TRyv-IHc0a9QHwg) - 马蜂窝技术
 - [Elasticsearch 多集群架构实践](https://mp.weixin.qq.com/s/rEXd3h5q_kBUXMQmQEBj3Q) - 滴滴技术
+- [有赞搜索系统的架构演进](https://tech.youzan.com/search-tech-1/) - 有赞技术
+- [有赞搜索系统的技术内幕](https://tech.youzan.com/search-tech-2/) - 有赞技术
+
 
   
 
@@ -28,4 +31,6 @@
 - [Elasticsearch－基础介绍及索引原理分析](https://www.cnblogs.com/dreamroute/p/8484457.html)
 - [ES学习路线图思维导图](https://mp.weixin.qq.com/s/z8-wYwalrkUWWSamL4bkIQ)
 - [elasticsearch之旅](https://blog.csdn.net/boling_cavalry/column/info/32743)
+- [Elasticsearch详解](https://www.jianshu.com/p/28fb017be7a7)
+- [Elasticsearch详解-续](https://www.jianshu.com/p/8e22558dc8a1)
 
