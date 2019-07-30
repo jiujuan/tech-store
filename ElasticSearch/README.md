@@ -33,4 +33,5 @@
 - [elasticsearch之旅](https://blog.csdn.net/boling_cavalry/column/info/32743)
 - [Elasticsearch详解](https://www.jianshu.com/p/28fb017be7a7)
 - [Elasticsearch详解-续](https://www.jianshu.com/p/8e22558dc8a1)
+- [使用 ELK 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
 
