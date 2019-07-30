@@ -1,8 +1,9 @@
 ## 基础
 
-- [ES guide](https://www.elastic.co/guide/index.html)  - 英文文档
+- [ES guide](https://www.elastic.co/guide/index.html)  - 英文文档(新)
   - [中文版](https://www.elastic.co/guide/cn/index.html) - 可能版本比较老，新的看英文文档
-- [ES权威指南-gitbook版](https://es.xiaoleilu.com/010_Intro/05_What_is_it.html) - 可能版本比较老
+- [ES权威指南-gitbook版](https://es.xiaoleilu.com/index.html) - 可能版本比较老
+  - [github](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide)
 
 
 
