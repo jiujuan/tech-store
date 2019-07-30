@@ -25,5 +25,6 @@
 ## 其他
 
 - [Elasticsearch－基础介绍及索引原理分析](https://www.cnblogs.com/dreamroute/p/8484457.html)
+- [ES学习路线图思维导图](https://mp.weixin.qq.com/s/z8-wYwalrkUWWSamL4bkIQ)
 - [elasticsearch之旅](https://blog.csdn.net/boling_cavalry/column/info/32743)
 
