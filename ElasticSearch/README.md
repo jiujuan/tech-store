@@ -5,15 +5,6 @@
 
 
 
-## 大公司实践
-
-- [日均5亿查询量的京东订单中心，为什么舍MySQL用ES?](https://mp.weixin.qq.com/s/QQ0M6C5G2LwIKhBdEmnnXA) - 京东到家
-- [基于 MySQL Binlog 的 Elasticsearch 数据同步实践](https://mp.weixin.qq.com/s/kzd0KG_TRyv-IHc0a9QHwg) - 马蜂窝技术
-- [Elasticsearch 多集群架构实践](https://mp.weixin.qq.com/s/rEXd3h5q_kBUXMQmQEBj3Q) - 滴滴技术
-- [有赞搜索系统的架构演进](https://tech.youzan.com/search-tech-1/) - 有赞技术
-- [有赞搜索系统的技术内幕](https://tech.youzan.com/search-tech-2/) - 有赞技术
-
-
 ## 社区-博客
 
 - [官方社区](https://www.elastic.co/cn/community/)
@@ -26,6 +17,16 @@
 - [ES权威指南-gitbook版](https://es.xiaoleilu.com/index.html) - 可能版本比较老
   - [github](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide)
 - [Mastering Elasticsearch](https://doc.yonyoucloud.com/doc/mastering-elasticsearch/index.html)
+
+
+
+## 大公司实践
+
+- [日均5亿查询量的京东订单中心，为什么舍MySQL用ES?](https://mp.weixin.qq.com/s/QQ0M6C5G2LwIKhBdEmnnXA) - 京东到家
+- [基于 MySQL Binlog 的 Elasticsearch 数据同步实践](https://mp.weixin.qq.com/s/kzd0KG_TRyv-IHc0a9QHwg) - 马蜂窝技术
+- [Elasticsearch 多集群架构实践](https://mp.weixin.qq.com/s/rEXd3h5q_kBUXMQmQEBj3Q) - 滴滴技术
+- [有赞搜索系统的架构演进](https://tech.youzan.com/search-tech-1/) - 有赞技术
+- [有赞搜索系统的技术内幕](https://tech.youzan.com/search-tech-2/) - 有赞技术
 
 
 
