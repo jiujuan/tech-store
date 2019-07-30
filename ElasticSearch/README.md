@@ -44,4 +44,5 @@
 - [ES分布式特性](http://laijianfeng.org/2018/08/Elasticsearch-%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%B9%E6%80%A7/)
 - [LUCENE索引结构漫谈](http://vearne.cc/archives/616)
 - [Elasticsearch SQL用法详解](https://mp.weixin.qq.com/s/mJjoTskWyT9CM-O_nCeDUQ)
+- [Elasticsearch面试题解读](https://mp.weixin.qq.com/s/iay2B4XGl5MuEqRBWqoipA)
 
