@@ -18,5 +18,5 @@
 ## 社区-博客
 
 - [官方社区](https://www.elastic.co/cn/community/)
+- [官方博客](https://www.elastic.co/cn/blog/)
 - [中文社区](https://elasticsearch.cn/)
-- [博客](https://www.elastic.co/cn/blog/)
