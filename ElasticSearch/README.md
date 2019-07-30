@@ -33,12 +33,12 @@
 
 ## 其他
 
+- [使用 ELK 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
 - [Elasticsearch－基础介绍及索引原理分析](https://www.cnblogs.com/dreamroute/p/8484457.html)
 - [ES学习路线图思维导图](https://mp.weixin.qq.com/s/z8-wYwalrkUWWSamL4bkIQ)
 - [elasticsearch之旅](https://blog.csdn.net/boling_cavalry/column/info/32743)
 - [Elasticsearch详解](https://www.jianshu.com/p/28fb017be7a7)
 - [Elasticsearch详解-续](https://www.jianshu.com/p/8e22558dc8a1)
-- [使用 ELK 搭建日志集中分析平台实践](https://wsgzao.github.io/post/elk/)
 - [400+节点的Elasticsearch集群运维](https://mp.weixin.qq.com/s/ekKn9YCJMvmID-3rpoJfDA)
 - [百亿级实时查询优化实战](https://mp.weixin.qq.com/s/UV6NoI6-Y3Zh4BR-m5jP8w)
 - [ES分布式特性](http://laijianfeng.org/2018/08/Elasticsearch-%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%B9%E6%80%A7/)
