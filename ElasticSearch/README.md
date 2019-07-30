@@ -42,4 +42,5 @@
 - [400+节点的Elasticsearch集群运维](https://mp.weixin.qq.com/s/ekKn9YCJMvmID-3rpoJfDA)
 - [百亿级实时查询优化实战](https://mp.weixin.qq.com/s/UV6NoI6-Y3Zh4BR-m5jP8w)
 - [ES分布式特性](http://laijianfeng.org/2018/08/Elasticsearch-%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%B9%E6%80%A7/)
+- [LUCENE索引结构漫谈](http://vearne.cc/archives/616)
 
