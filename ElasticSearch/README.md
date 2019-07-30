@@ -45,5 +45,6 @@
 - [LUCENE索引结构漫谈](http://vearne.cc/archives/616)
 - [Elasticsearch SQL用法详解](https://mp.weixin.qq.com/s/mJjoTskWyT9CM-O_nCeDUQ)
 - [Elasticsearch面试题解读](https://mp.weixin.qq.com/s/iay2B4XGl5MuEqRBWqoipA)
-- [Elasticsearch方法论-基础-进阶-实践系列](https://mp.weixin.qq.com/s?__biz=MzI2NDY1MTA3OQ==&mid=2247484194&idx=1&sn=09fafbe34dc17a8bbe64919ac6be2662&chksm=eaa82b0adddfa21c8aa65b47f1c5b0a25c9ceaeb0ecc47055fd9c615d0f7a3fbfb6febee46e7&scene=21#wechat_redirect)
+- [Elasticsearch方法论-基础-进阶-实践系列-铭毅天下](https://mp.weixin.qq.com/s?__biz=MzI2NDY1MTA3OQ==&mid=2247484194&idx=1&sn=09fafbe34dc17a8bbe64919ac6be2662&chksm=eaa82b0adddfa21c8aa65b47f1c5b0a25c9ceaeb0ecc47055fd9c615d0f7a3fbfb6febee46e7&scene=21#wechat_redirect)
+- [性能优化实践干货-铭毅天下](https://mp.weixin.qq.com/s/GQfEMb2jMvm9PEANkLl3Tg)
 
