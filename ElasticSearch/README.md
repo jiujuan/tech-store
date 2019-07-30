@@ -18,5 +18,12 @@
 ## 社区-博客
 
 - [官方社区](https://www.elastic.co/cn/community/)
-- [官方博客](https://www.elastic.co/cn/blog/)
 - [中文社区](https://elasticsearch.cn/)
+- [博客](https://www.elastic.co/cn/blog/)
+
+
+
+## 其他
+
+- [Elasticsearch－基础介绍及索引原理分析](https://www.cnblogs.com/dreamroute/p/8484457.html)
+
