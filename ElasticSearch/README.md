@@ -28,6 +28,7 @@
 - [Elasticsearch 多集群架构实践](https://mp.weixin.qq.com/s/rEXd3h5q_kBUXMQmQEBj3Q) - 滴滴技术
 - [有赞搜索系统的架构演进](https://tech.youzan.com/search-tech-1/) - 有赞技术
 - [有赞搜索系统的技术内幕](https://tech.youzan.com/search-tech-2/) - 有赞技术
+- [Elasticsearch 集群在QQ阅读评论服务的实践](http://jiangew.me/es-deploy-proxy/)
 
 
 
