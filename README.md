@@ -131,3 +131,6 @@
 - [详解 Kubernetes DaemonSet 的实现原理](https://draveness.me/kubernetes-daemonset)
 - [详解 Kubernetes StatefulSet 实现原理](https://draveness.me/kubernetes-statefulset)
 - [详解 Kubernetes Deployment 的实现原理](https://draveness.me/kubernetes-deployment)
+
+# 其他
+- [clean architecture with java](https://speakerdeck.com/mp911de/clean-architecture-with-java-german?slide=1)
