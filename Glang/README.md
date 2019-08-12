@@ -9,3 +9,6 @@
 ## Context
 - [通过 context 实现并发控制](https://zhuanlan.zhihu.com/p/72916991)
 
+## 其他
+- [Go 问答汇总篇 二](https://juejin.im/post/5d4f05565188250e42582a7d)
+
