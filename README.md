@@ -1,6 +1,6 @@
 # tech-collection
 
-技术方面的文章集合，记录一些比较好的文章，别人发的或者自己看见的文章。
+技术方面的文章集合记录一些比较好的文章，别人发的或者自己看见的文章。
 
 - [2019-04.md](https://github.com/jiujuanfeng/golinux-repository/blob/master/2019-04.md)
 - [2019-05.md](https://github.com/jiujuanfeng/golinux-repository/blob/master/2019-05.md)
