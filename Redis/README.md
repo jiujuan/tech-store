@@ -18,3 +18,6 @@
 
 ## 源码分析
 - [Redis源码分析](http://bbs.redis.cn/forum.php?mod=forumdisplay&fid=46)
+
+## 其他
+- [携程Redis多数据中心解决方案-XPipe](https://mp.weixin.qq.com/s/Q3bt0-5nv8uNMdHuls-Exw?)

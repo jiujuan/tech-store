@@ -1,3 +1,4 @@
 - [和我一步一步部署k8s集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
   - [gitbook版](https://k8s-install.opsnull.com/)
-
+- [学习如何为 Kubernetes Operators 进行单元测试](https://github.com/caicloud/learning-unit-testing-for-k8s-operator)
+- [A collection of cluster reliability tools for Kubernetes](https://github.com/orkaproj/governor)
