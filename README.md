@@ -137,3 +137,4 @@
 - [the hard way of kubernetes](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [infrastructure as code tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
 - [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
+- [微服务设计模式](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)
