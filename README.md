@@ -138,3 +138,4 @@
 - [infrastructure as code tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
 - [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
 - [微服务设计模式](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)
+- [技术人的思维导图](https://github.com/yueshutong/Pentagram)
