@@ -139,3 +139,4 @@
 - [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
 - [微服务设计模式](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)
 - [技术人的思维导图](https://github.com/yueshutong/Pentagram)
+- [使用反射实现简易的RPC框架](https://yinzige.com/2018/09/11/create-simple-golang-rpc/)
