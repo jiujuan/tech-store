@@ -141,3 +141,4 @@
 - [技术人的思维导图](https://github.com/yueshutong/Pentagram)
 - [使用反射实现简易的RPC框架](https://yinzige.com/2018/09/11/create-simple-golang-rpc/)
 - [Tengine 如何查找 server 块](https://mp.weixin.qq.com/s/qNP-fldwbBBPnHklurnBqA)
+- [gRPC metadata使用](https://blog.csdn.net/hjxzb/article/details/88980186)
