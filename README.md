@@ -142,3 +142,5 @@
 - [使用反射实现简易的RPC框架](https://yinzige.com/2018/09/11/create-simple-golang-rpc/)
 - [Tengine 如何查找 server 块](https://mp.weixin.qq.com/s/qNP-fldwbBBPnHklurnBqA)
 - [gRPC metadata使用](https://blog.csdn.net/hjxzb/article/details/88980186)
+- [Go语言回顾：从1.0到1.13](https://medium.com/@blanchon.vincent/go-retrospective-b9723352e9b0)
+- [v8go-在go中使用v8引擎](https://github.com/rogchap/v8go)
