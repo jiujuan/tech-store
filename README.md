@@ -145,3 +145,4 @@
 - [Go语言回顾：从1.0到1.13](https://medium.com/@blanchon.vincent/go-retrospective-b9723352e9b0)
 - [v8go-在go中使用v8引擎](https://github.com/rogchap/v8go)
 - [go的分时调度解析](https://juejin.im/post/5d65d84751882550f321d22c)
+- [使用drone和gogs搭建自己的CI/CD系统](https://kanda.me/2019/03/06/building-ci-cd-system-by-drone/)
