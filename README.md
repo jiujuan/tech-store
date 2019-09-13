@@ -146,3 +146,4 @@
 - [v8go-在go中使用v8引擎](https://github.com/rogchap/v8go)
 - [go的分时调度解析](https://juejin.im/post/5d65d84751882550f321d22c)
 - [使用drone和gogs搭建自己的CI/CD系统](https://kanda.me/2019/03/06/building-ci-cd-system-by-drone/)
+- [聊聊GOSSIP的一个实现](http://vearne.cc/archives/584)
