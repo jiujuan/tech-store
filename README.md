@@ -147,3 +147,4 @@
 - [go的分时调度解析](https://juejin.im/post/5d65d84751882550f321d22c)
 - [使用drone和gogs搭建自己的CI/CD系统](https://kanda.me/2019/03/06/building-ci-cd-system-by-drone/)
 - [聊聊GOSSIP的一个实现](http://vearne.cc/archives/584)
+- [高效能程序员的7项技能](https://www.infoq.cn/article/NasOYC9loK44zT8PxTzW)
