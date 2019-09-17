@@ -148,3 +148,4 @@
 - [使用drone和gogs搭建自己的CI/CD系统](https://kanda.me/2019/03/06/building-ci-cd-system-by-drone/)
 - [聊聊GOSSIP的一个实现](http://vearne.cc/archives/584)
 - [高效能程序员的7项技能](https://www.infoq.cn/article/NasOYC9loK44zT8PxTzW)
+- [控制goroutine并发数量的方式](https://jingwei.link/2019/09/13/conotrol-goroutines-count.html)
