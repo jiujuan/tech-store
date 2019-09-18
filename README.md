@@ -149,3 +149,4 @@
 - [聊聊GOSSIP的一个实现](http://vearne.cc/archives/584)
 - [高效能程序员的7项技能](https://www.infoq.cn/article/NasOYC9loK44zT8PxTzW)
 - [控制goroutine并发数量的方式](https://jingwei.link/2019/09/13/conotrol-goroutines-count.html)
+- [golang中slice的in探索](https://mp.weixin.qq.com/s/xE9GT21YLTRsZd6CYk16MA)
