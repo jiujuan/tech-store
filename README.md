@@ -151,3 +151,4 @@
 - [控制goroutine并发数量的方式](https://jingwei.link/2019/09/13/conotrol-goroutines-count.html)
 - [golang中slice的in探索](https://mp.weixin.qq.com/s/xE9GT21YLTRsZd6CYk16MA)
 - [警惕Go编程陷阱](https://mp.weixin.qq.com/s/0bJOzNxoQhdVjFOunhmVKQ)
+- [go语言包管理简史](https://tonybai.com/2019/09/21/brief-history-of-go-package-management/)
