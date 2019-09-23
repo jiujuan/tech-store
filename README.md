@@ -153,3 +153,4 @@
 - [警惕Go编程陷阱](https://mp.weixin.qq.com/s/0bJOzNxoQhdVjFOunhmVKQ)
 - [go语言包管理简史](https://tonybai.com/2019/09/21/brief-history-of-go-package-management/)
 - [免费的编程书籍集合](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+- [图解CAP](https://mp.weixin.qq.com/s/idiLMxZOkmi0Ik4HO6rl6w)
