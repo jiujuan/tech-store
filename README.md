@@ -35,6 +35,7 @@
 - [Golang任务队列machinery使用与源码剖析（一）](https://www.cnblogs.com/bakari/p/8971786.html)
 - [Golang任务队列machinery使用与源码剖析（二）](https://cloud.tencent.com/developer/article/1177831)
 - [有赞延迟队列设计](https://tech.youzan.com/queuing_delay/)
+- [golang设计模式：装饰器模式](https://www.jianshu.com/p/4f916717bd44)
 
 # 2019-03-15
 - [SPDY 是什么？如何部署 SPDY？](https://linux.cn/article-1385-1-qqmail.html)
@@ -155,3 +156,4 @@
 - [免费的编程书籍集合](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 - [图解CAP](https://mp.weixin.qq.com/s/idiLMxZOkmi0Ik4HO6rl6w)
 - [查看go的代码优化过程](http://xargin.com/go-compiler-opt)
+
