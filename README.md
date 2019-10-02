@@ -160,3 +160,4 @@
 - [如何理解golang中的反射](http://pengtuo.tech/golang/2019/09/23/golang-reflection/)
 - [go的pipline最佳实践 - channel](https://www.jianshu.com/p/784c8e842744)
 - [死磕Elasticsearch方法论认知清单](https://mp.weixin.qq.com/s/q5iYjOF5229Ddg1EPPwgsQ)
+- [Mybatis极简配置](https://mp.weixin.qq.com/s?__biz=MzUyNzY5OTE5Mw==&mid=2247483825&idx=1&sn=92089077c1690aad2dfe21d92b109803&chksm=fa7adc27cd0d55316a7efa45320927c97ef3e4492e37c904419ca7bcb95ece63ba210ee5bc40&scene=0&xtrack=1&clicktime=1569720705&enterid=1569720705&ascene=7&devicetype=android-28&version=27000736&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAM2ZHgDxmR4AAAA=&lang=zh_CN&pass_ticket=GRZWNHl4668OwfHB3J5eJ4ZhwroCbLVRbmonNQgQSbtKZ5fS31baLQcv+tu6o7nj&wx_header=1)
