@@ -163,3 +163,4 @@
 - [Mybatis极简配置](https://mp.weixin.qq.com/s?__biz=MzUyNzY5OTE5Mw==&mid=2247483825&idx=1&sn=92089077c1690aad2dfe21d92b109803&chksm=fa7adc27cd0d55316a7efa45320927c97ef3e4492e37c904419ca7bcb95ece63ba210ee5bc40&scene=0&xtrack=1&clicktime=1569720705&enterid=1569720705&ascene=7&devicetype=android-28&version=27000736&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAM2ZHgDxmR4AAAA=&lang=zh_CN&pass_ticket=GRZWNHl4668OwfHB3J5eJ4ZhwroCbLVRbmonNQgQSbtKZ5fS31baLQcv+tu6o7nj&wx_header=1)
 - [Go微服务容器与韧性](https://segmentfault.com/a/1190000020503704)
 - [性能测试从0开始-模型篇](https://www.cnblogs.com/imyalost/p/11415691.html)
+- [标准化技术下的软件开发](https://insights.thoughtworks.cn/software-development-standardization/)
