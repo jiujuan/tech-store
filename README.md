@@ -164,3 +164,4 @@
 - [Go微服务容器与韧性](https://segmentfault.com/a/1190000020503704)
 - [性能测试从0开始-模型篇](https://www.cnblogs.com/imyalost/p/11415691.html)
 - [标准化技术下的软件开发](https://insights.thoughtworks.cn/software-development-standardization/)
+- [通过Goalng内存逃逸分析讨论GC的压力](https://www.jianshu.com/p/10e83dc6cd64)
