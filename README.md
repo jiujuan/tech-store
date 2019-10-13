@@ -167,3 +167,4 @@
 - [通过Goalng内存逃逸分析讨论GC的压力](https://www.jianshu.com/p/10e83dc6cd64)
 - [世界上最好的学习法：费曼学习法](https://mp.weixin.qq.com/s/epWUlT6HLYVICZiDxT-gSw)
 - [每个架构师都应该研究下康威定律](https://www.infoq.cn/article/every-architect-should-study-conway-law)
+- [Go 系列文章1：Channel 从使用到源码分析](https://xargin.com/channel-from-usage-to-src-analysis/)
