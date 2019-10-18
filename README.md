@@ -169,3 +169,4 @@
 - [每个架构师都应该研究下康威定律](https://www.infoq.cn/article/every-architect-should-study-conway-law)
 - [Go 系列文章1：Channel 从使用到源码分析](https://xargin.com/channel-from-usage-to-src-analysis/)
 - [漫画红黑树](https://blog.csdn.net/csdnnews/article/details/98476893)
+- [图解算法-单链表两两反转](https://mp.weixin.qq.com/s/P8OBRf0DEx_8rFEyImq3IA)
