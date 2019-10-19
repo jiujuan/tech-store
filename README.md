@@ -170,3 +170,4 @@
 - [Go 系列文章1：Channel 从使用到源码分析](https://xargin.com/channel-from-usage-to-src-analysis/)
 - [漫画红黑树](https://blog.csdn.net/csdnnews/article/details/98476893)
 - [图解算法-单链表两两反转](https://mp.weixin.qq.com/s/P8OBRf0DEx_8rFEyImq3IA)
+- [[译] TCP的SYN队列和Accept队列](https://pengrl.com/p/46323/)
