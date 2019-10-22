@@ -3,6 +3,7 @@
 - [从源码讲解Go内存分配](https://studygolang.com/articles/22652)
 - [深入理解channel：设计+源码](http://lessisbetter.site/2019/03/03/golang-channel-design-and-source/)
 - [千难万险 —— goroutine 从生到死（六）](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/)
+- [Go Select实现](https://ninokop.github.io/2017/11/07/go-channel/)
 
 ## 异常处理
 - [深入Go异常处理机制一](https://gocn.vip/article/1882)
