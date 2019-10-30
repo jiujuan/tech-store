@@ -174,3 +174,4 @@
 - [javascript: this：call、apply、bind ](https://mp.weixin.qq.com/s/d8eB9nyPnAJ_Di7m_wyvdA)
 - [聊聊缓存淘汰算法-LRU 实现原理](http://www.justdojava.com/2019/10/20/lru-cache/)
 - [带你深入理解内存对齐最底层原理](https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg)
+- [HBase 8年抗战总结](https://mp.weixin.qq.com/s/6kchZQdn_NQAYibu-Foviw)
