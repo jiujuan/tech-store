@@ -176,3 +176,4 @@
 - [带你深入理解内存对齐最底层原理](https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg)
 - [HBase 8年抗战总结](https://mp.weixin.qq.com/s/6kchZQdn_NQAYibu-Foviw)
 - [内存管理](https://www.csie.ntu.edu.tw/~wcchen/asm98/asm/proj/b85506061/table_of_contents.html)
+- [LWN: VR和AR的开源方案 ](https://mp.weixin.qq.com/s/DqX7zzZ2NWePZR4hvGwNUA)
