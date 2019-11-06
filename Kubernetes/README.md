@@ -3,3 +3,4 @@
 - [学习如何为 Kubernetes Operators 进行单元测试](https://github.com/caicloud/learning-unit-testing-for-k8s-operator)
 - [A collection of cluster reliability tools for Kubernetes](https://github.com/orkaproj/governor)
 - [从零开始入门 K8s | 应用存储和持久化数据卷：存储快照与拓扑调度](https://mp.weixin.qq.com/s/enoy5KRd2sxpZFZ6f06ZiQ)
+- [阿里巴巴云原生技术公开课-k8s公开课](https://edu.aliyun.com/roadmap/cloudnative)
