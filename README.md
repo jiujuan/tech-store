@@ -178,6 +178,7 @@
 - [内存管理](https://www.csie.ntu.edu.tw/~wcchen/asm98/asm/proj/b85506061/table_of_contents.html)
 - [LWN: VR和AR的开源方案 ](https://mp.weixin.qq.com/s/DqX7zzZ2NWePZR4hvGwNUA)
 
+- [Gainlo 面试指南](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/)
 - [clean code python](https://github.com/zedr/clean-code-python)
 - [clean code ml](https://github.com/davified/clean-code-ml)
 - [为什么用或不用消息队列](https://www.daemoncoder.com/a/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E6%88%96%E4%B8%8D%E7%94%A8%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/4e513d3d)
