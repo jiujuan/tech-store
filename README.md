@@ -178,6 +178,7 @@
 - [内存管理](https://www.csie.ntu.edu.tw/~wcchen/asm98/asm/proj/b85506061/table_of_contents.html)
 - [LWN: VR和AR的开源方案 ](https://mp.weixin.qq.com/s/DqX7zzZ2NWePZR4hvGwNUA)
 
+- [mit6.828-lab4 抢占式多任务调度](https://www.jianshu.com/p/fc9a8572a830)
 - [Gainlo 面试指南](https://wizardforcel.gitbooks.io/gainlo-interview-guide/content/)
 - [clean code python](https://github.com/zedr/clean-code-python)
 - [clean code ml](https://github.com/davified/clean-code-ml)
