@@ -14,4 +14,5 @@
 ## 其他
 - [Go 问答汇总篇 二](https://juejin.im/post/5d4f05565188250e42582a7d)
 - [关于Golang GC的一些误解--真的比Java算法更领先吗？](https://mp.weixin.qq.com/s/eDd212DhjIRGpytBkgfzAg)
+- [深入理解go http server](https://juejin.im/post/5dd11baff265da0c0c1fe813)
 
