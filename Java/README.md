@@ -12,3 +12,5 @@
 
 - [SpringCloud系列教程](https://blog.csdn.net/u012702547/column/info/17373)
 
+## java基础
+- [深入理解Java类型信息(Class对象)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
