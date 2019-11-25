@@ -8,6 +8,7 @@
 
 - [超详细入门教程](https://blog.csdn.net/liqingtx/article/details/60330555)
 - [面试中关于Redis的问题](https://blog.csdn.net/qq_34337272/article/details/80012284)
+- [Redis基础数据类型（string、hash、list）](https://mp.weixin.qq.com/s?__biz=MzA4NTIyOTI3NQ==&mid=2247484029&idx=1&sn=9713276fc555463e73ddf63c1b07fca8&chksm=9fda69c9a8ade0dfa72d8c3e99ef2e0bd144180cfa4be579b345d400e7e41449f54f96c31b40&token=87698765&lang=zh_CN#rd)
 
 
 
