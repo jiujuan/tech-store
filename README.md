@@ -188,3 +188,6 @@
 - [千万级延时任务队列如何实现，美图开源的-LMSTFY](https://mp.weixin.qq.com/s/79z5LQ5EE9pu3r7Qz5UrBg)
 
 - [[译] 写一个简单的内存分配器（替换glibc中的malloc函数）](https://pengrl.com/p/18873/)
+
+## 职业发展
+- [程序员的职业之路](https://www.jianshu.com/p/7af47a140dc2)
