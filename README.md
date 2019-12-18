@@ -191,6 +191,7 @@
 
 - [微服务架构体系的深度治理](https://mp.weixin.qq.com/s/ZfG4iNPbMctllG-1ZjvykA)
 - [分布式一致性算法机制综合整理](https://segmentfault.com/a/1190000014503967)
+- [微服务是银弹吗](https://www.slideshare.net/meituan/208-63406784)
 
 ## 职业发展
 - [程序员的职业之路](https://www.jianshu.com/p/7af47a140dc2)
