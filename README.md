@@ -137,7 +137,7 @@
 - [clean architecture with java](https://speakerdeck.com/mp911de/clean-architecture-with-java-german?slide=1)
 - [the hard way of kubernetes](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [infrastructure as code tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
-- [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
+
 - [微服务设计模式](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns)
 - [技术人的思维导图](https://github.com/yueshutong/Pentagram)
 - [使用反射实现简易的RPC框架](https://yinzige.com/2018/09/11/create-simple-golang-rpc/)
@@ -190,8 +190,13 @@
 - [[译] 写一个简单的内存分配器（替换glibc中的malloc函数）](https://pengrl.com/p/18873/)
 
 - [微服务架构体系的深度治理](https://mp.weixin.qq.com/s/ZfG4iNPbMctllG-1ZjvykA)
-- [分布式一致性算法机制综合整理](https://segmentfault.com/a/1190000014503967)
+
 - [微服务是银弹吗](https://www.slideshare.net/meituan/208-63406784)
 
 ## 职业发展
 - [程序员的职业之路](https://www.jianshu.com/p/7af47a140dc2)
+
+## 分布式
+- [hyflow-go是一款使用Go语言编写的高一致性分布存储](https://www.jdon.com/47209)
+- [分布式一致性算法机制综合整理](https://segmentfault.com/a/1190000014503967)
+- [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
