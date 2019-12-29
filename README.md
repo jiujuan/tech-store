@@ -192,7 +192,7 @@
 - [微服务架构体系的深度治理](https://mp.weixin.qq.com/s/ZfG4iNPbMctllG-1ZjvykA)
 
 - [微服务是银弹吗](https://www.slideshare.net/meituan/208-63406784)
-- [全栈发展]https://github.com/zoeminghong/full-stack
+- [全栈发展](https://github.com/zoeminghong/full-stack)
 ## 职业发展
 - [程序员的职业之路](https://www.jianshu.com/p/7af47a140dc2)
 
