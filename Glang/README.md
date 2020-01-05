@@ -5,6 +5,7 @@
 - [千难万险 —— goroutine 从生到死（六）](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/)
 - [Go Select实现](https://ninokop.github.io/2017/11/07/go-channel/)
 - [[译] Go语言的协程，系统线程以及CPU管理](https://pengrl.com/p/29953/)
+- [go interface接口深入理解](https://juejin.im/post/5a6873fd518825734501b3c5)
 
 ## 异常处理
 - [深入Go异常处理机制一](https://gocn.vip/article/1882)
