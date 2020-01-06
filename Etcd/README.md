@@ -5,6 +5,7 @@
 - [etcd raft 设计与实现（一）](https://zhuanlan.zhihu.com/p/54846720)
 - [etcd raft 设计与实现（二）](https://zhuanlan.zhihu.com/p/54970068)
 - [【深入浅出etcd系列】1. 架构概览](https://bbs.huaweicloud.com/blogs/104633)
+- [【深入浅出etcd系列】2. 心跳和选举](https://bbs.huaweicloud.com/blogs/110887)
 
 
 ## 性能优化
