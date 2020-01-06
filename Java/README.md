@@ -14,6 +14,7 @@
 ## java基础
 - [深入理解Java类型信息(Class对象)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
 - [框架基础：深入理解java注解类型](https://www.cnblogs.com/java-chen-hao/p/11024153.html)
+- [java基础(十八)--java动态代理原理源码分析](https://www.cnblogs.com/java-chen-hao/p/10643744.html)
 - [java core learning](https://github.com/JeffLi1993/java-core-learning-example)
 
 ## JDK源码分析
