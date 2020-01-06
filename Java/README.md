@@ -16,8 +16,9 @@
 - [框架基础：深入理解java注解类型](https://www.cnblogs.com/java-chen-hao/p/11024153.html)
 - [java core learning](https://github.com/JeffLi1993/java-core-learning-example)
 
-## JDK源码
+## JDK源码分析
 - [JDK1.8源码—java.util.HashMap](https://www.cnblogs.com/java-chen-hao/p/9634882.html)
+- [JDK1.8源码(二)——java.util.LinkedList](https://www.cnblogs.com/java-chen-hao/p/9600078.html)
 
 ## Dubbo
 - [说说Dubbo工作流程](https://songzixian.com/javabook/1160.html)
