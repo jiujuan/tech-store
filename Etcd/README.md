@@ -1,3 +1,7 @@
+## 基础
+- [etcd 文档](https://github.com/etcd-io/etcd/tree/master/Documentation)
+- [etcd api](https://github.com/etcd-io/etcd/blob/master/Documentation/learning/api.md)
+
 ## 架构设计
 
 - [etcd：从应用场景到实现原理的全方位解读](https://www.infoq.cn/article/etcd-interpretation-application-scenario-implement-principle)
