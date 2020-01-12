@@ -16,6 +16,7 @@
 - [框架基础：深入理解java注解类型](https://www.cnblogs.com/java-chen-hao/p/11024153.html)
 - [java基础(十八)--java动态代理原理源码分析](https://www.cnblogs.com/java-chen-hao/p/10643744.html)
 - [java core learning](https://github.com/JeffLi1993/java-core-learning-example)
+- [java集合](https://blog.ouyangsihai.cn/java-ji-he-ru-men-he-shen-ru-xue-xi-kan-zhe-pian-jiu-chai-bu-duo-liao.html)
 
 ## JDK源码分析
 - [JDK1.8源码—java.util.HashMap](https://www.cnblogs.com/java-chen-hao/p/9634882.html)
