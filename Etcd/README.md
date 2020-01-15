@@ -1,6 +1,7 @@
 ## 基础
 - [etcd 文档](https://github.com/etcd-io/etcd/tree/master/Documentation)
 - [etcd api](https://github.com/etcd-io/etcd/blob/master/Documentation/learning/api.md)
+- [看图轻松了解etcd](https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651437692&idx=5&sn=aed37df20ea312e135601c48f63bc691&chksm=80bb648eb7cced98782654ca70e656a52cc6e85d540ce278ace1e05f04d84dd17e3196c0a4e5&scene=21#wechat_redirect)
 
 ## 架构设计
 
