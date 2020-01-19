@@ -18,6 +18,7 @@
 - [java core learning](https://github.com/JeffLi1993/java-core-learning-example)
 - [java集合](https://blog.ouyangsihai.cn/java-ji-he-ru-men-he-shen-ru-xue-xi-kan-zhe-pian-jiu-chai-bu-duo-liao.html)
 - [Java泛型类型擦除以及类型擦除带来的问题](https://www.cnblogs.com/wuqinglong/p/9456193.html)
+- [java进阶工程师完全扫盲](https://github.com/doocs/advanced-java)
 
 ## JDK源码分析
 - [JDK1.8源码—java.util.HashMap](https://www.cnblogs.com/java-chen-hao/p/9634882.html)
