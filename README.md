@@ -193,6 +193,7 @@
 
 - [微服务是银弹吗](https://www.slideshare.net/meituan/208-63406784)
 - [全栈发展](https://github.com/zoeminghong/full-stack)
+- [事务介绍](https://willemjiang.github.io/servicecomb/pack/2019/01/11/distributed-transaction-of-services-1.html)
 ## 职业发展
 - [程序员的职业之路](https://www.jianshu.com/p/7af47a140dc2)
 
