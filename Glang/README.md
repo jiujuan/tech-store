@@ -22,3 +22,5 @@
 - [Go Kit微服务实战](https://zhuanlan.zhihu.com/p/100226931)
 
 - [微服务统一认证与授权 上](http://blueskykong.com/2020/01/28/go-security1)
+
+- [Go做分布式的好处和坏处](https://www.youtube.com/watch?v=8IKxf98h65Y&t=23s)
