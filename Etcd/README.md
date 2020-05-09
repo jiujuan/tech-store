@@ -17,4 +17,5 @@
 
 
 ## 性能优化
-- [etcd 性能优化实践](https://mp.weixin.qq.com/s?src=11&timestamp=1578333977&ver=2080&signature=-ufMQ7*dAqiWOlzgGqPDTj*vyMxZPcIn*-Vm3tHrzy3SaU*0esDJCXOHnK*u-rqGHpBCCIqajvLgOcbJMXTXVyuQC0EYyVdcAAEXlg4khVTmD7EAiKFJYDWJVI3k7OKu&new=1)
+- [etcd 在超大规模数据场景下的性能优化](https://mp.weixin.qq.com/s/oNfNK9DlI24gVkC-T5O_dw)
+- [etcd 性能优化实践](https://blog.crazytaxii.com/posts/performance_optimization_of_etcd/)
