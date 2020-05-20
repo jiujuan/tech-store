@@ -24,3 +24,6 @@
 - [微服务统一认证与授权 上](http://blueskykong.com/2020/01/28/go-security1)
 
 - [Go做分布式的好处和坏处](https://www.youtube.com/watch?v=8IKxf98h65Y&t=23s)
+
+## 优化
+- [Go 性能优化实战](http://team.jiunile.com/blog/2020/05/go-performance.html)
