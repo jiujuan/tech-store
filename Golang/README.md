@@ -25,5 +25,7 @@
 
 - [Go做分布式的好处和坏处](https://www.youtube.com/watch?v=8IKxf98h65Y&t=23s)
 
+- [微服务业务架构的探索](https://gocn.vip/topics/10388)
+
 ## 优化
 - [Go 性能优化实战](http://team.jiunile.com/blog/2020/05/go-performance.html)
