@@ -1,7 +1,7 @@
-## 架构设计
+## 架构设计与原理
 
 - [分析Redis架构设计](https://blog.csdn.net/a600423444/article/details/8944601)
-
+- [Redis Cluster原理](https://mp.weixin.qq.com/s/bDg3Y1hBnK0ac9_uquu9Yw)
 
 
 ## 基础
