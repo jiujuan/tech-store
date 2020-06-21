@@ -20,6 +20,9 @@
 ## 源码分析
 - [Redis源码分析](http://bbs.redis.cn/forum.php?mod=forumdisplay&fid=46)
 
+## 分布式kv
+- [使用开源技术构建有赞分布式KV存储服务](https://tech.youzan.com/shi-yong-kai-yuan-ji-zhu-gou-jian-you-zan-fen-bu-shi-kvcun-chu-fu-wu/)
+
 ## 其他
 - [携程Redis多数据中心解决方案-XPipe](https://mp.weixin.qq.com/s/Q3bt0-5nv8uNMdHuls-Exw?)
 - [Redis 6.0 新特性-多线程连环13问！](https://xie.infoq.cn/article/fdc6387f6eca550b8e3a1b0ea)
