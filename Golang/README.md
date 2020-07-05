@@ -15,6 +15,9 @@
 - [通过 context 实现并发控制](https://zhuanlan.zhihu.com/p/72916991)
 - [Golang的反射reflect深入理解和示例](https://juejin.im/post/5a75a4fb5188257a82110544)
 
+## 库
+- [gocache](https://github.com/eko/gocache) 集成了Bigcache、Ristretto、Memcache、Redis的存储方案。当然，这个库还在发展，功能不一定有单个库丰富
+
 ## 其他
 - [Go 问答汇总篇 二](https://juejin.im/post/5d4f05565188250e42582a7d)
 - [关于Golang GC的一些误解--真的比Java算法更领先吗？](https://mp.weixin.qq.com/s/eDd212DhjIRGpytBkgfzAg)
