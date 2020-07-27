@@ -201,3 +201,5 @@
 - [hyflow-go是一款使用Go语言编写的高一致性分布存储](https://www.jdon.com/47209)
 - [分布式一致性算法机制综合整理](https://segmentfault.com/a/1190000014503967)
 - [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
+
+- [后端书籍推荐](https://segmentfault.com/a/1190000022550912)
