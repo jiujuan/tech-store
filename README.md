@@ -194,8 +194,10 @@
 - [微服务是银弹吗](https://www.slideshare.net/meituan/208-63406784)
 - [全栈发展](https://github.com/zoeminghong/full-stack)
 - [事务介绍](https://willemjiang.github.io/servicecomb/pack/2019/01/11/distributed-transaction-of-services-1.html)
+
 ## 职业发展
 - [程序员的职业之路](https://www.jianshu.com/p/7af47a140dc2)
+- [架构师技术领导力成长之路](https://zhuanlan.zhihu.com/p/165512622)
 
 ## 分布式
 - [hyflow-go是一款使用Go语言编写的高一致性分布存储](https://www.jdon.com/47209)
