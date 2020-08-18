@@ -25,6 +25,7 @@
 - [关于Golang GC的一些误解--真的比Java算法更领先吗？](https://mp.weixin.qq.com/s/eDd212DhjIRGpytBkgfzAg)
 - [深入理解go http server](https://juejin.im/post/5dd11baff265da0c0c1fe813)
 - [Go Kit微服务实战](https://zhuanlan.zhihu.com/p/100226931)
+- [go-kit part1](https://pliutau.com/gi-kit-1/)
 
 - [微服务统一认证与授权 上](http://blueskykong.com/2020/01/28/go-security1)
 
