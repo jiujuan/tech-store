@@ -2,6 +2,9 @@
 - [分布式之消息队列复习精讲](https://www.cnblogs.com/rjzheng/p/8994962.html)
 - [消息中间件选型](https://mp.weixin.qq.com/s/ad7jibTb5nTzh3nDQYKFeg)
 
+### 事务
+- [消息队列之事务消息，RocketMQ 和 Kafka是如何做的？](https://mp.weixin.qq.com/s/GX5nTl3LhkAj-XCj00rvHw)
+
 ## kafka
 
 ### 基础
