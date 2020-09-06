@@ -9,6 +9,7 @@
 - [Golang - 调度剖析【第一部分】](https://segmentfault.com/a/1190000016038785)
 - [golang内存分配](https://www.yisu.com/zixun/13002.html)
 - [Dig101-Go 之深入理解 mutex](https://gocn.vip/topics/10648)
+- [图解Golang的channel底层原理](https://juejin.im/post/6844903821349502990)
 
 ## 异常处理
 - [深入Go异常处理机制一](https://gocn.vip/article/1882)
