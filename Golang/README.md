@@ -33,6 +33,7 @@
 
 - [Go做分布式的好处和坏处](https://www.youtube.com/watch?v=8IKxf98h65Y&t=23s)
 
+- [浅谈Golang的unsafe.Pointer](https://studygolang.com/articles/30678)
 - [微服务业务架构的探索](https://gocn.vip/topics/10388)
 
 ## 优化
