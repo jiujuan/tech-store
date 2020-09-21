@@ -11,7 +11,8 @@
 - [Dig101-Go 之深入理解 mutex](https://gocn.vip/topics/10648)
 - [图解Golang的channel底层原理](https://juejin.im/post/6844903821349502990)
 - [go并发调度原理](https://mp.weixin.qq.com/s?__biz=MzUzMjk0ODI0OA==&mid=2247483816&idx=1&sn=bfb50078e9953646c789deda8d74f618&chksm=faaa35dfcdddbcc9a8f57b9422fad3aa4eabda9c4bb906403734934afd637d6924c6c780f50b&token=42665943&lang=zh_CN&scene=21#wechat_redirect)
--[go channel原理分析](https://segmentfault.com/a/1190000019172554)
+- [go channel原理分析](https://segmentfault.com/a/1190000019172554)
+- [golang中锁源码实现：mutex](http://legendtkl.com/2016/10/23/golang-mutex/)
 
 ## 异常处理
 - [深入Go异常处理机制一](https://gocn.vip/article/1882)
