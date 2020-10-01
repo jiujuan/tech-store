@@ -7,3 +7,6 @@
 
 ## SQL原理
 - [SQL运行内幕：从执行原理看调优的本质](https://juejin.im/post/6844904201357623304)
+
+## MySQL
+- [深入理解MySQL中的事务隔离级别](https://segmentfault.com/a/1190000025156465)
