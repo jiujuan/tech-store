@@ -4,3 +4,5 @@
 - [A collection of cluster reliability tools for Kubernetes](https://github.com/orkaproj/governor)
 - [从零开始入门 K8s | 应用存储和持久化数据卷：存储快照与拓扑调度](https://mp.weixin.qq.com/s/enoy5KRd2sxpZFZ6f06ZiQ)
 - [阿里巴巴云原生技术公开课-k8s公开课](https://edu.aliyun.com/roadmap/cloudnative)
+- [13.深入k8s：Pod 水平自动扩缩HPA及其源码分析](https://www.luozhiyun.com/archives/381)
+- [15.深入k8s：Event事件处理及其源码分析](https://www.luozhiyun.com/archives/388)
