@@ -207,4 +207,6 @@
 - [分布式系列](https://zhuanlan.zhihu.com/c_1027859566523920384)
 
 - [后端书籍推荐](https://segmentfault.com/a/1190000022550912)
-https://refactoringguru.cn/design-patterns/book
+
+## 设计模式
+[design-patterns](https://refactoringguru.cn/design-patterns/book)
