@@ -2,6 +2,7 @@
 - [Go内存分配那些事](https://lessisbetter.site/2019/07/06/go-memory-allocation/)
 - [从源码讲解Go内存分配](https://studygolang.com/articles/22652)
 - [深入理解channel：设计+源码](http://lessisbetter.site/2019/03/03/golang-channel-design-and-source/)
+- [golang chan 源码详细剖析](https://mp.weixin.qq.com/s/FUf0TWnLteRZlyv9njZ3dw)
 - [千难万险 —— goroutine 从生到死（六）](https://qcrao.com/2019/09/06/go-scheduler-life-of-goroutine/)
 - [Go Select实现](https://ninokop.github.io/2017/11/07/go-channel/)
 - [[译] Go语言的协程，系统线程以及CPU管理](https://pengrl.com/p/29953/)
