@@ -39,6 +39,7 @@
 
 - [浅谈Golang的unsafe.Pointer](https://studygolang.com/articles/30678)
 - [微服务业务架构的探索](https://gocn.vip/topics/10388)
+- [理解Go语言的nil](https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA)
 
 ## 优化
 - [Go 性能优化实战](http://team.jiunile.com/blog/2020/05/go-performance.html)
