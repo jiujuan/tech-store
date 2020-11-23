@@ -32,6 +32,7 @@
 - [深入理解go http server](https://juejin.im/post/5dd11baff265da0c0c1fe813)
 - [Go Kit微服务实战](https://zhuanlan.zhihu.com/p/100226931)
 - [go-kit part1](https://pliutau.com/gi-kit-1/)
+- [熔断的原理与实现](https://gocn.vip/topics/11151)
 
 - [微服务统一认证与授权 上](http://blueskykong.com/2020/01/28/go-security1)
 
