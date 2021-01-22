@@ -5,5 +5,7 @@
 ## 分布式
 [如何学习分布式系统](https://tech.ipalfish.com/blog/2020/08/24/distributed_system/)
 
+[分布式事务的七种实现方案汇总](https://www.toutiao.com/i6872523766392422926/)
+
 ## 微服务
 - [微服务](http://blog.cuicc.com/blog/2015/07/22/microservices/)
