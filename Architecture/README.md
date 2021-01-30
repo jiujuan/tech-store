@@ -9,3 +9,6 @@
 
 ## 微服务
 - [微服务](http://blog.cuicc.com/blog/2015/07/22/microservices/)
+
+### DDD-领域驱动设计
+- [领域驱动设计3篇](https://bugstack.cn/itstack-demo-ddd/itstack-demo-ddd.html)
