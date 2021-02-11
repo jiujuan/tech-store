@@ -6,3 +6,5 @@
 - [阿里巴巴云原生技术公开课-k8s公开课](https://edu.aliyun.com/roadmap/cloudnative)
 - [13.深入k8s：Pod 水平自动扩缩HPA及其源码分析](https://www.luozhiyun.com/archives/381)
 - [15.深入k8s：Event事件处理及其源码分析](https://www.luozhiyun.com/archives/388)
+
+- [kubernetes 图谱](https://www.processon.com/view/link/5ac64532e4b00dc8a02f05eb#map)
