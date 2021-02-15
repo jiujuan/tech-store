@@ -210,3 +210,6 @@
 
 ## 设计模式
 [design-patterns](https://refactoringguru.cn/design-patterns/book)
+
+## 其他
+- [谈谈京东的企业组织和人才发展战略](http://baixiaosheng.net/8054)
