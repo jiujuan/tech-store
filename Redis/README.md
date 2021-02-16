@@ -26,3 +26,4 @@
 ## 其他
 - [携程Redis多数据中心解决方案-XPipe](https://mp.weixin.qq.com/s/Q3bt0-5nv8uNMdHuls-Exw?)
 - [Redis 6.0 新特性-多线程连环13问！](https://xie.infoq.cn/article/fdc6387f6eca550b8e3a1b0ea)
+- [RedixDB](https://github.com/alash3al/redix)  a persistent real-time key-value store, with the same redis protocol with powerful features, golang
