@@ -46,6 +46,7 @@
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 
 - [CLRS study](https://github.com/shady831213/algorithms) Codes are written with golang.
+- [高阶函数实现装饰器](https://mp.weixin.qq.com/s/WacP4-wvX1zuocDPBaCx6A)
 
 ## 优化
 - [Go 性能优化实战](http://team.jiunile.com/blog/2020/05/go-performance.html)
