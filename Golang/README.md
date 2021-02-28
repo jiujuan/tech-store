@@ -48,6 +48,8 @@
 - [CLRS study](https://github.com/shady831213/algorithms) Codes are written with golang.
 - [高阶函数实现装饰器](https://mp.weixin.qq.com/s/WacP4-wvX1zuocDPBaCx6A)
 
+- [golang相关文章](https://www.jianshu.com/u/b1cc0b8f0f7c)
+
 ## 优化
 - [Go 性能优化实战](http://team.jiunile.com/blog/2020/05/go-performance.html)
 - [分析Go程序的Off-CPU性能](https://colobu.com/2020/11/12/analyze-On-CPU-in-go/)
