@@ -214,3 +214,6 @@
 
 ## 其他
 - [谈谈京东的企业组织和人才发展战略](http://baixiaosheng.net/8054)
+
+## saas
+- [开发了一个 SaaS 项目的技术栈](https://www.infoq.cn/article/ocD0pryRrJ077fVx0mbL)
