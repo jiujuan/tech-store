@@ -15,6 +15,7 @@
 - [go channel原理分析](https://segmentfault.com/a/1190000019172554)
 - [golang中锁源码实现：mutex](http://legendtkl.com/2016/10/23/golang-mutex/)
 - [[译]Go：内存管理与内存分配](https://juejin.im/post/6844904005215207432)
+- [深入 Go 并发原语 — Channel 底层实现](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Go/go_channel.md)
 
 ## 异常处理
 - [深入Go异常处理机制一](https://gocn.vip/article/1882)
