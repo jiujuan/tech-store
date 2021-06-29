@@ -17,6 +17,7 @@
 - [[译]Go：内存管理与内存分配](https://juejin.im/post/6844904005215207432)
 - [深入 Go 并发原语 — Channel 底层实现](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Go/go_channel.md)
 - [Goroutine 开启和退出到底做了什么？ ](https://mp.weixin.qq.com/s/_ngJ6QfZRK5sGTA-CfsORg)
+- [用 golang 编写微服务的资源](https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845)
 
 ## 异常处理
 - [深入Go异常处理机制一](https://gocn.vip/article/1882)
