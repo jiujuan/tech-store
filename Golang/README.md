@@ -53,6 +53,7 @@
 
 - [golang相关文章](https://www.jianshu.com/u/b1cc0b8f0f7c)
 - [Go 缓存系列之 go-cache](https://mp.weixin.qq.com/s/dKlfwJ69s3fUBWYIV57hyg)
+- [100-go-mistakes](https://medium.com/solvingalgo/100-go-mistakes-2022-4debd9449a72?source=collection_home---4------0-----------------------)
 
 ## 优化
 - [Go 性能优化实战](http://team.jiunile.com/blog/2020/05/go-performance.html)
