@@ -16,6 +16,7 @@
 
 - [面试中关于Redis的问题](https://blog.csdn.net/qq_34337272/article/details/80012284)
 - [redis 50个面试题和答案](https://cloudpai.gitee.io/2018/04/18/2018-04-18-3/)
+- [Redis与MySQL双写一致性如何保证？](https://juejin.cn/post/6964531365643550751)
 
 ## 源码分析
 - [Redis源码分析](http://bbs.redis.cn/forum.php?mod=forumdisplay&fid=46)
