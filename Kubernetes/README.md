@@ -8,3 +8,5 @@
 - [15.深入k8s：Event事件处理及其源码分析](https://www.luozhiyun.com/archives/388)
 
 - [kubernetes 图谱](https://www.processon.com/view/link/5ac64532e4b00dc8a02f05eb#map)
+
+- [网易有道redis云原生实践](https://mp.weixin.qq.com/s/C7kXL8thMX8EnQufIFnueg)
