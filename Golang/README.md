@@ -26,6 +26,9 @@
 - [通过 context 实现并发控制](https://zhuanlan.zhihu.com/p/72916991)
 - [Golang的反射reflect深入理解和示例](https://juejin.im/post/5a75a4fb5188257a82110544)
 
+## 并发
+[Golang 常用并发编程技巧](https://mp.weixin.qq.com/s/a4srYlwuQuZXpSazMCi7YQ)
+
 ## 库
 - [gocache](https://github.com/eko/gocache) 集成了Bigcache、Ristretto、Memcache、Redis的存储方案。当然，这个库还在发展，功能不一定有单个库丰富
 - [govalidator](https://github.com/asaskevich/govalidator) go验证器 集合包
