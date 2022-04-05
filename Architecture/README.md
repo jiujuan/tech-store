@@ -7,6 +7,10 @@
 
 [分布式事务的七种实现方案汇总](https://www.toutiao.com/i6872523766392422926/)
 
+## 分布式链路追踪
+[opentracing 文档翻译](https://wu-sheng.gitbooks.io/opentracing-io/content/)
+[Jaeger-分布式调用链跟踪系统理论与实战](https://cloud.tencent.com/developer/article/1160850)
+
 ## 微服务
 - [微服务](http://blog.cuicc.com/blog/2015/07/22/microservices/)
 - [云原生环境下的微服务实践全解](https://www.infoq.cn/theme/87)
