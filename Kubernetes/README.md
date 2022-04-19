@@ -10,3 +10,5 @@
 - [kubernetes 图谱](https://www.processon.com/view/link/5ac64532e4b00dc8a02f05eb#map)
 
 - [网易有道redis云原生实践](https://mp.weixin.qq.com/s/C7kXL8thMX8EnQufIFnueg)
+
+- [k8s_awesome_document](https://github.com/0voice/k8s_awesome_document)
