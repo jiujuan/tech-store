@@ -3,9 +3,11 @@
 - [从平台到中台(下)](https://mp.weixin.qq.com/s/TirTQfWo0gX9PUw_okdGjQ?)
 
 ## 分布式
-[如何学习分布式系统](https://tech.ipalfish.com/blog/2020/08/24/distributed_system/)
+- [如何学习分布式系统](https://tech.ipalfish.com/blog/2020/08/24/distributed_system/)
 
-[分布式事务的七种实现方案汇总](https://www.toutiao.com/i6872523766392422926/)
+- [分布式事务的七种实现方案汇总](https://www.toutiao.com/i6872523766392422926/)
+
+- [分布式事务-02-NWR 读写模型、Quorum 机制](https://houbb.github.io/2019/04/05/distributed-tx-02-nwr-02)
 
 ## 分布式链路追踪
 [opentracing 文档翻译](https://wu-sheng.gitbooks.io/opentracing-io/content/)
