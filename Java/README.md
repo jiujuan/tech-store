@@ -40,3 +40,6 @@
 
 ## 项目
 - [springboot开发的博客-yblog](https://github.com/youzhengjie9/yblog)
+
+## java 书单
+[从事java开发需要看的书单](https://mp.weixin.qq.com/s/FDMMfVA3ILmcuP-B6uDEoQ)
