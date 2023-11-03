@@ -30,6 +30,7 @@
 ### 架构师
 
 - [架构师图谱](https://github.com/toutiaoio/awesome-architecture)
+- [架构师必要技能-业务分析（下篇）](https://mp.weixin.qq.com/s/288rXgD12g8efFao2_fgSg) 来自公众号：技术方舟
 
 ### 重构
 
