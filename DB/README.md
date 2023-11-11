@@ -10,3 +10,6 @@
 
 ## MySQL
 - [深入理解MySQL中的事务隔离级别](https://segmentfault.com/a/1190000025156465)
+
+## TiDB
+- [TiDB 源码解析](https://cn.pingcap.com/blog/tag/tidb-source-code-reading/)  
