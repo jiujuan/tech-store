@@ -43,3 +43,6 @@
 ## 幂等
 
 - [幂等设计详解 | 京东云技术团队](https://juejin.cn/post/7241744188260810789)
+
+## 开源书籍
+- [深入架构原理与实践](https://github.com/isno/theByteBook)
