@@ -27,6 +27,8 @@
 - [领域驱动设计3篇](https://bugstack.cn/itstack-demo-ddd/itstack-demo-ddd.html)
 - [domainlanguage DDD](https://www.domainlanguage.com/)
 
+- [领域驱动设计四论 — 在江湖派与学院派之间架起桥梁 from: 腾讯云技术](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247662023&idx=1&sn=e8c9e623dfeeadc30664061676f07ba7&chksm=eaa66397ddd1ea81202960ced4d7b77a3f53ca38e2dd9c45f7c877430a05a1a9378a5c448a54&scene=21#wechat_redirect)
+
 ### 架构师
 
 - [架构师图谱](https://github.com/toutiaoio/awesome-architecture)
