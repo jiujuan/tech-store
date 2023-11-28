@@ -135,6 +135,7 @@
 
 # 2023-11-28
 - [新时期的阿里妈妈广告引擎](https://mp.weixin.qq.com/s/2dXZa0I35IH7rTPURKOXGA)
+- [routine](https://github.com/timandy/routine)  一个Go库，ThreadLocal for Golang
   
 # 其他
 - [clean architecture with java](https://speakerdeck.com/mp911de/clean-architecture-with-java-german?slide=1)
