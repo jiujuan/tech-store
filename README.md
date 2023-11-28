@@ -133,6 +133,9 @@
 - [详解 Kubernetes StatefulSet 实现原理](https://draveness.me/kubernetes-statefulset)
 - [详解 Kubernetes Deployment 的实现原理](https://draveness.me/kubernetes-deployment)
 
+# 2023-11-28
+- [新时期的阿里妈妈广告引擎](https://mp.weixin.qq.com/s/2dXZa0I35IH7rTPURKOXGA)
+- 
 # 其他
 - [clean architecture with java](https://speakerdeck.com/mp911de/clean-architecture-with-java-german?slide=1)
 - [the hard way of kubernetes](https://github.com/kelseyhightower/kubernetes-the-hard-way)
