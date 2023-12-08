@@ -140,6 +140,9 @@
 # AI-LLM-GPT
 - [learn prompting](https://learnprompting.org/zh-Hans/docs/intro) 提示词学习课程
 - [Learn_Prompting](https://github.com/trigaten/Learn_Prompting)
+
+# 程序员健康
+- [颈椎病腰突康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
   
 # 其他
 - [clean architecture with java](https://speakerdeck.com/mp911de/clean-architecture-with-java-german?slide=1)
