@@ -1,2 +1,3 @@
 - [怎么理解堆和栈](https://zhuanlan.zhihu.com/p/66922957)
 - [操作系统知识大纲](https://juejin.cn/post/6844904048219389965)
+- [聊聊近些年 CPU 在微架构、IO 速率上的演进过程](https://mp.weixin.qq.com/s/ungGwoy2zSALLpq8FgQvcg)
