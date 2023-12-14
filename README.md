@@ -140,6 +140,7 @@
 # AI-LLM-GPT
 - [learn prompting](https://learnprompting.org/zh-Hans/docs/intro) 提示词学习课程
 - [Learn_Prompting](https://github.com/trigaten/Learn_Prompting)
+- [lobe-chat](https://github.com/lobehub/lobe-chat)  开源的聊天机器人框架，支持插件系统，可部署你的私人ChatGPT, LLM 应用程序
 
 # 程序员健康
 - [颈椎病腰突康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
