@@ -231,6 +231,8 @@
 ## 其他
 - [谈谈京东的企业组织和人才发展战略](http://baixiaosheng.net/8054)
 
+## 自制脚本语言
+- [如何从0到1设计实现一门自己的脚本语言](https://mp.weixin.qq.com/s/rLBd4n-Nfp1LLXM5mQ5kyg)
 ## saas
 - [开发了一个 SaaS 项目的技术栈](https://www.infoq.cn/article/ocD0pryRrJ077fVx0mbL)
 
