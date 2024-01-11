@@ -38,9 +38,10 @@
 
 - [系统重构与迁移指南](https://migration.ink/)
 
-## 架构资料
+## 架构合集
 
-[架构资料合集](https://github.com/toutiaoio/weekly.manong.io/blob/master/archives/architecture.md)
+- [架构资料合集](https://github.com/toutiaoio/weekly.manong.io/blob/master/archives/architecture.md)
+- [2023美团技术沙龙盘点：21个视频揭秘复杂业务场景背后的技术实践](https://mp.weixin.qq.com/s/K88oVCaulHH2BavWurIP2A)
 
 ## 幂等
 
