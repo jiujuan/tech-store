@@ -232,6 +232,8 @@
 - [谈谈京东的企业组织和人才发展战略](http://baixiaosheng.net/8054)
 - [如何做一个产品工程师](https://tw93.fun/2022-07-29/pd-code.html) tw93
 
+- [Zed](https://github.com/zed-industries/zed/tree/main) Zed, a high-performance, multiplayer code editor
+
 ## 自制脚本语言
 - [如何从0到1设计实现一门自己的脚本语言](https://mp.weixin.qq.com/s/rLBd4n-Nfp1LLXM5mQ5kyg)
 ## saas
