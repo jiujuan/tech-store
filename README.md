@@ -252,3 +252,6 @@
 
 ## 前端
 - [了解前端工程化](https://vue3.chengpeiquan.com/engineering.html)
+
+## 技术管理书籍
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://book.douban.com/subject/36432906/) 技术为径
