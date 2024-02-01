@@ -233,6 +233,7 @@
 - [如何做一个产品工程师](https://tw93.fun/2022-07-29/pd-code.html) tw93
 
 - [Zed](https://github.com/zed-industries/zed/tree/main) Zed, a high-performance, multiplayer code editor
+- [smithy](https://github.com/smithy-lang/smithy) Smithy 是一种与协议无关的接口定义语言和一套工具，用于为任何编程语言生成客户端、服务器和文档。
 
 ## 自制脚本语言
 - [如何从0到1设计实现一门自己的脚本语言](https://mp.weixin.qq.com/s/rLBd4n-Nfp1LLXM5mQ5kyg)
