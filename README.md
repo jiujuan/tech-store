@@ -256,3 +256,6 @@
 
 ## 技术管理书籍
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://book.douban.com/subject/36432906/) 技术为径
+
+## 创业书籍
+- [创业36条军规](https://book.douban.com/subject/7054652/) 来自豆瓣 
