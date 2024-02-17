@@ -244,6 +244,7 @@
 
 ## 数据结构与算法
 - [LeetCode](https://github.com/halfrost/LeetCode-Go)
+- [leetcode-solutions](https://github.com/smallnest/leetcode-solutions)
 
 ## 人生
 - [人一辈子，最重要的到底是什么？](https://www.zhihu.com/question/266929946/answer/3037726568) 知乎 夏虫意难平 的回答
