@@ -142,6 +142,7 @@
 - [Learn_Prompting](https://github.com/trigaten/Learn_Prompting)
 - [lobe-chat](https://github.com/lobehub/lobe-chat)  开源的聊天机器人框架，支持插件系统，可部署你的私人ChatGPT, LLM 应用程序
 - [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
+- [收集了很多 GPTs Prompt](https://github.com/linexjlin/GPTs)
 
 # 程序员健康
 - [颈椎病腰突康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
